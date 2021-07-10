@@ -61,7 +61,7 @@
 	"dependencies": {
 		"@babel/runtime": "^7.10.2",
 		"ajv": "^6.12.2",
-		"aws-serverless-express": "^3.3.8",
+		"aws-serverless-express": "^3.4.0",
 		"axios": "^0.19.2",
 		"babel-plugin-source-map-support": "^2.1.2",
 		"mongodb": "^3.5.8",
