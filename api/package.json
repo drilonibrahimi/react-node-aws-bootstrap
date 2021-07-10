@@ -59,7 +59,7 @@
 	"author": "Polymathlabs",
 	"license": "MIT",
 	"dependencies": {
-		"@babel/runtime": "^7.10.2",
+		"@babel/runtime": "^7.14.6",
 		"ajv": "^6.12.2",
 		"aws-serverless-express": "^3.3.8",
 		"axios": "^0.19.2",
