@@ -65,7 +65,7 @@
 		"axios": "^0.19.2",
 		"babel-plugin-source-map-support": "^2.1.2",
 		"mongodb": "^3.5.8",
-		"mongodb-client-encryption": "^1.0.1",
+		"mongodb-client-encryption": "^1.2.5",
 		"body-parser": "^1.19.0",
 		"cors": "^2.8.5",
 		"express": "^4.17.1",
