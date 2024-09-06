@@ -9,9 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "serverless": "^2.1.0",
+    "serverless": "^4.0.0",
     "serverless-dotenv-plugin": "^3.0.0",
-    "serverless-plugin-split-stacks": "^1.9.3",
+    "serverless-plugin-split-stacks": "^1.11.1",
     "serverless-s3-remover": "^0.6.0"
   }
 }
